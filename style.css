@@ -1,0 +1,30 @@
+img{
+  width: 40%;
+}
+p{
+  font-family: 'Bahiana', cursive;
+  width: 60%;
+}
+h1{
+  font-family: 'Bahiana', cursive;
+}
+/*fieldset{
+
+}*/
+body{
+  font-family: 'Sansita', sans-serif;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+}
+html{
+  background-color: pink;
+}
+body{
+  background-color: red
+}
+#main{
+  font-family: 'Dancing Script', cursive;
+  font-size: 6em;
+}
